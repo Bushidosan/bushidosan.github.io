@@ -6,4 +6,4 @@ tags: [CTF, Windows, Labs, EDR, Evasion, Sliver]
 pin: true
 ---
 
-# Work in progress, coming soon!
+# Coming Soon!
